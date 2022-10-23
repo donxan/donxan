@@ -60,7 +60,7 @@
 
 
 <p align="center">
-<a href="http://blog.iuops.com/">个人网站</a> |  <a href="http://www.chenby.cn/">个人网站</a>  |  <a href="https://blog.iuops.com/about">关于我</a>  | <a href="blog.51cto.com/m51cto">51CTO</a> | <a href="https://devops.iuops.com/">博客</a> 
+<a href="http://blog.iuops.com/">个人网站</a> |  <a href="https://blog.iuops.com/about">关于我</a>  | <a href="blog.51cto.com/m51cto">51CTO</a> | <a href="https://devops.iuops.com/">博客</a> 
 </p>
 
 # 
